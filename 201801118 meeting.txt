@@ -1,9 +1,9 @@
 20180108 meeting
 
 logistic regression package를 이용해서 phi_g의 varaince 확인하기
-->완료, 이상없음
+->완료, 이상없음 -> 원래 것과 비교해서 변화없다는 말임???
 
 rho를 1로 수정해서 simulation해보기(mcmc횟수를 줄여서라도).
-
+-> 좀더 자세하게 써줄래?
 
 
